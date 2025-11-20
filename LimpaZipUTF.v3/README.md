@@ -5,7 +5,7 @@ Um script Python que **extrai, descompacta e organiza** automaticamente arquivos
 ## 📋 O Que o Script Faz
 
 ### 1️⃣ **Extrai Arquivos de Subpastas**
-- Move arquivos úteis de pastas profundas para a raiz
+- Move arquivos úteis de pastas profundas para Sa raiz
 - Remove arquivos inúteis (cache, logs, configurações do sistema)
 - Deleta pastas vazias automaticamente
 
